@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-    <a href="https://kellyvasconcellos.github.io/flexbox-css/">Acessar Website</a>
+    <a href="https://kellyvasconcellos.github.io/flexblog-css/">Acessar Website</a>
 <h3 >
 
 # Indice
@@ -36,9 +36,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ```bash
     # Clonar o repositório
-    $ git clone https://github.com/KellyVasconcellos/flexblog.git
+    $ git clone https://github.com/KellyVasconcellos/flexblog-css.git
     # Entrar no diretório
-    $ cd flexblog
+    $ cd flexblog-css
 ```
 
 ---
