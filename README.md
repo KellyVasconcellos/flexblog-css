@@ -18,7 +18,8 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **flexblog** é uma landing page de clone da [fintech Neon - Instituição de Pagamento](https://neon.com.br/)
+O projeto **flexblog** é uma lading page criada no curso [CSS Flexbox, Origamid](https://www.origamid.com/curso/css-flexbox/) com o intuito de colocarmos em prática todo conteúdo estudado durante o curso
+
 
 ---
 
