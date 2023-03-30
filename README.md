@@ -18,17 +18,17 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **flexblog** é uma lading page criada no curso [CSS Flexbox](https://www.origamid.com/curso/css-flexbox/) com o intuito de colocar em prática todo conteúdo estudado durante o curso
+O projeto **Flexblog** é uma landing page criada no curso [CSS Flexbox](https://www.origamid.com/curso/css-flexbox/) com o intuito de colocar em prática todo conteúdo estudado durante o curso.
 
 
 ---
 
 ## 🚀 Tecnologias utilizadas
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ---
 
